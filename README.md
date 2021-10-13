@@ -1,11 +1,17 @@
-# _buildspace Mint Your Own NFT Collection
+# _buildspace Mint Your Own NFT Collection Project 
 
-### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
+UI for _buildspace nft project. 
+The contract for the webui can be found here: https://github.com/edakturk14/nft-buildspace-contract
 
-1. Run `npm install` at the root of your directory
-2. Run `npm run start` to start the project
-3. Start coding!
+### Tools:
+- React: build the ui 
+- Hardhat: deploy the contract on the Rinkeby Test network. 
+- Alchemy: ethereum api to make request to the test net.
+- Metamask: wallet to make transactions on the blockchain
 
-### **Questions?**
-Have some questions make sure you head over to your [_buildspace Dashboard](https://app.buildspace.so/courses/CO961ddb5f-f428-4608-9949-a9a2f461eb3f) and link your Discord account so you can get access to helpful channels and your instructor!
+### Demo:
+
+![screenshot](./images/webappscreenshot.png)
+
+### Webapp:
+https://nft-starter-repo-final.edakturk14.repl.co/
